@@ -1,7 +1,6 @@
 {
   "name": "rental_studion_todo_backend_jt",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,5 +16,15 @@
     "express": "^4.18.2",
     "mongodb": "^6.1.0",
     "nodemon": "^3.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdNadiruzzamanNibras/rental_studion_todo_backend_JT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MdNadiruzzamanNibras/rental_studion_todo_backend_JT/issues"
+  },
+  "homepage": "https://github.com/MdNadiruzzamanNibras/rental_studion_todo_backend_JT#readme",
+  "description": ""
 }
